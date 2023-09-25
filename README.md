@@ -3,10 +3,11 @@
 
 Local Setup and Run the application
 
+Step 0:  Start MySQL database 
 
-Step 1: 
 
-Step 1: Download or clone the source code from GitHub to a local machine - Click here
+
+Step 1: Download or clone the source code from GitHub to a local machine 
 
 
 
